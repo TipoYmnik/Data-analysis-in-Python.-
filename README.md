@@ -10,7 +10,7 @@
 
 В этом проекте проводится анализ данных о ценах на недвижимость, включая удаление выбросов и выявление главного признака, влияющего на цену. Используется метод главных компонент (PCA) для построения модели, а также t-SNE для разбиения данных на кластеры. Визуализация данных осуществляется с помощью библиотек `matplotlib` и `seaborn`.
 
-## [Classifiers](https://github.com/TipoYmnik/Data-analysis-in-Python.-/blob/main/classifiers.ipynb) <a name="classifiers"></a>
+## [Classifiers](https://github.com/TipoYmnik/Data-analysis-in-Python.-/blob/main/Classifiers.ipynb) <a name="classifiers"></a>
 
 В этом разделе проводится тестирование и построение следующих классификаторов:
 - Метод опорных векторов (SVM)
